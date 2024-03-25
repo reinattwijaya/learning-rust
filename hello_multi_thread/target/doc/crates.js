@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["hello_multi_thread"];

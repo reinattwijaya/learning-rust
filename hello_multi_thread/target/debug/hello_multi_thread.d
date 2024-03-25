@@ -1,0 +1,1 @@
+/Users/reinattwijaya/Documents/github/learning-rust/hello_multi_thread/target/debug/hello_multi_thread: /Users/reinattwijaya/Documents/github/learning-rust/hello_multi_thread/src/lib.rs /Users/reinattwijaya/Documents/github/learning-rust/hello_multi_thread/src/main.rs
